@@ -3,11 +3,11 @@
     "25389410aa8fca02425340ee56d46ed8": {
       "Files": {
         "UndergroundResource.dll": {
-          "MD5": "59c62531aaca0a0a779810303b814ed4",
+          "MD5": "248340b7cdbc0568cbf431ac1acd7520",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/25389410aa8fca02425340ee56d46ed8/UndergroundResource.dll"
         },
         "WindSDK.dll": {
-          "MD5": "d9d6f777031dc0bfce057e51ef7dc246",
+          "MD5": "c182e6ffa02973a00b8378020c4597d3",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/25389410aa8fca02425340ee56d46ed8/WindSDK.dll"
         },
         "WindSharp.dll": {
