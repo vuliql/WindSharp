@@ -48,6 +48,30 @@
         }
       }
     },
+    "3fcc5bd27a46225fc0383c790118afa2": {
+      "Files": {
+        "UndergroundResource.dll": {
+          "MD5": "248340b7cdbc0568cbf431ac1acd7520",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/3fcc5bd27a46225fc0383c790118afa2/UndergroundResource.dll"
+        },
+        "WindSDK.dll": {
+          "MD5": "f905ed0e12601cf7d21c052e10502121",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/3fcc5bd27a46225fc0383c790118afa2/WindSDK.dll"
+        },
+        "WindSharp.dll": {
+          "MD5": "4c6aaf192e20191acc39c8b16e7fea9d",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/3fcc5bd27a46225fc0383c790118afa2/WindSharp.dll"
+        },
+        "Wrapper.dll": {
+          "MD5": "b78ec2b78fb7d7121ba78504e2ea5e56",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/3fcc5bd27a46225fc0383c790118afa2/Wrapper.dll"
+        },
+        "WS_Loader.dll": {
+          "MD5": "ad06927aad0bf6d550ae9aabdbbda8ca",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/3fcc5bd27a46225fc0383c790118afa2/WS_Loader.dll"
+        }
+      }
+    },
     "4481f792046f1157a3cc24d423b91426": {
       "Files": {
         "UndergroundResource.dll": {
