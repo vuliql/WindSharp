@@ -15,15 +15,15 @@
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/1ad087a169adc801b40be3c85b962bb3/UndergroundResource.dll"
         },
         "WindSDK.dll": {
-          "MD5": "2f160803ff69bb7a52da7f373e16bfc2",
+          "MD5": "646ab589e02e5212a7ba6a03d12f53a0",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/1ad087a169adc801b40be3c85b962bb3/WindSDK.dll"
         },
         "WindSharp.dll": {
-          "MD5": "8a64d95c443336e577a1a3cbdbeea56d",
+          "MD5": "b03aec2a9c0cd8d8bde69b8ca5c4f94c",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/1ad087a169adc801b40be3c85b962bb3/WindSharp.dll"
         },
         "Wrapper.dll": {
-          "MD5": "5e6a7abe11af6e2b4b03974642bea746",
+          "MD5": "ca4f829a36c5d286f38d2f6b30d8af27",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/1ad087a169adc801b40be3c85b962bb3/Wrapper.dll"
         },
         "WS_Activator.wsaddon": {
@@ -31,7 +31,7 @@
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/1ad087a169adc801b40be3c85b962bb3/WS_Activator.wsaddon"
         },
         "WS_AIO.wsaddon": {
-          "MD5": "eb6252283b2c25902185a9227aaa6939",
+          "MD5": "a0747ed958be47d9f4800c97ece8ae13",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/1ad087a169adc801b40be3c85b962bb3/WS_AIO.wsaddon"
         },
         "WS_Awareness.wsaddon": {
