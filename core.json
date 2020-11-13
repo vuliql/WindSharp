@@ -18,6 +18,10 @@
           "MD5": "73352e653edbad33bbf42069c4b3d2b0",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/1ad087a169adc801b40be3c85b962bb3/WindSDK.dll"
         },
+        "WindSharp.Addons.exe": {
+          "MD5": "3728da7c72d9f7907a0272e9cb74b2a0",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/1ad087a169adc801b40be3c85b962bb3/WindSharp.Addons.exe"
+        },
         "WindSharp.dll": {
           "MD5": "80d32cf904cbd43412ef4e2ce9f49de9",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/1ad087a169adc801b40be3c85b962bb3/WindSharp.dll"
