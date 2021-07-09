@@ -468,6 +468,58 @@
         }
       }
     },
+    "724a6edb8770184b2eacd7a0e40f2f4a": {
+      "Files": {
+        "Newtonsoft.Json.dll": {
+          "MD5": "6815034209687816d8cf401877ec8133",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/Newtonsoft.Json.dll"
+        },
+        "SharpDX.dll": {
+          "MD5": "9e2ae61790b003ce712fd7e436be0c49",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/SharpDX.dll"
+        },
+        "UndergroundResource.dll": {
+          "MD5": "8830ed65337ac8a0cb3222e9c6f7cf8a",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/UndergroundResource.dll"
+        },
+        "WindSDK.dll": {
+          "MD5": "f4be440dffe50c678eafdf2a72eef634",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/WindSDK.dll"
+        },
+        "WindSharp.Addons.exe": {
+          "MD5": "66e2cdb65a498246fc30dba4fa2b3559",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/WindSharp.Addons.exe"
+        },
+        "WindSharp.dll": {
+          "MD5": "4520b10f1ba606c58160a599bd1c6746",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/WindSharp.dll"
+        },
+        "Wrapper.dll": {
+          "MD5": "f974c3d45ecd531439caf7346320dc6c",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/Wrapper.dll"
+        },
+        "WS_Activator.wsaddon": {
+          "MD5": "818159e19495a8421b89a3953563ff46",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/WS_Activator.wsaddon"
+        },
+        "WS_AIO.wsaddon": {
+          "MD5": "62c2a8990de9c26b73760f869e53282f",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/WS_AIO.wsaddon"
+        },
+        "WS_Awareness.wsaddon": {
+          "MD5": "9ba54bf5f077f6c9337539c3466eb523",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/WS_Awareness.wsaddon"
+        },
+        "WS_EzEvade.wsaddon": {
+          "MD5": "1487d5ed77e5b3af29cc61b0956dd7ab",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/WS_EzEvade.wsaddon"
+        },
+        "WS_Loader.dll": {
+          "MD5": "bcccdf1680bb1877e59546ba81dc4d51",
+          "Download": "https://github.com/sbyt3/WindSharp/raw/master/724a6edb8770184b2eacd7a0e40f2f4a/WS_Loader.dll"
+        }
+      }
+    },
     "768a17352562dfafbf25fcd447adf57a": {
       "Files": {
         "Newtonsoft.Json.dll": {
