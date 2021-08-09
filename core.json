@@ -535,7 +535,7 @@
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/UndergroundResource.dll"
         },
         "WindSDK.dll": {
-          "MD5": "f4be440dffe50c678eafdf2a72eef634",
+          "MD5": "174d2275ce9738f8400a4678685ed23a",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/WindSDK.dll"
         },
         "WindSharp.Addons.exe": {
@@ -543,11 +543,11 @@
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/WindSharp.Addons.exe"
         },
         "WindSharp.dll": {
-          "MD5": "1b0b2142f3ca8902a6a8e2a7e2ab0df4",
+          "MD5": "5aa701025a75b8a1f8b9cf4b614387cb",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/WindSharp.dll"
         },
         "Wrapper.dll": {
-          "MD5": "af72565bcf37414b5de1d8a5c8ae270a",
+          "MD5": "fa80fda9deaaaf5490e0ce8171d7c082",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/Wrapper.dll"
         },
         "WS_Activator.wsaddon": {
@@ -563,7 +563,7 @@
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/WS_Awareness.wsaddon"
         },
         "WS_EzEvade.wsaddon": {
-          "MD5": "1487d5ed77e5b3af29cc61b0956dd7ab",
+          "MD5": "d83570ce9f42ab67c18fb4ccdf055129",
           "Download": "https://github.com/sbyt3/WindSharp/raw/master/6d61a30b3ec3df3b3102aa699f5429a0/WS_EzEvade.wsaddon"
         },
         "WS_Loader.dll": {
